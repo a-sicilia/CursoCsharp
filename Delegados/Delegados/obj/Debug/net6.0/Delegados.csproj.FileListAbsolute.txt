@@ -1,0 +1,15 @@
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\bin\Debug\net6.0\Delegados.exe
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\bin\Debug\net6.0\Delegados.deps.json
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\bin\Debug\net6.0\Delegados.runtimeconfig.json
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\bin\Debug\net6.0\Delegados.dll
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\bin\Debug\net6.0\Delegados.pdb
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\Delegados.csproj.AssemblyReference.cache
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\Delegados.AssemblyInfoInputs.cache
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\Delegados.AssemblyInfo.cs
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\Delegados.csproj.CoreCompileInputs.cache
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\Delegados.dll
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\refint\Delegados.dll
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\Delegados.pdb
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\Delegados.genruntimeconfig.cache
+D:\BKP\Proyectos personales\C#\Delegados\Delegados\obj\Debug\net6.0\ref\Delegados.dll

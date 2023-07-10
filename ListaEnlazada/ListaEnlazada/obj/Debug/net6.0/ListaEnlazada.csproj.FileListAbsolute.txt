@@ -1,0 +1,15 @@
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\bin\Debug\net6.0\ListaEnlazada.exe
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\bin\Debug\net6.0\ListaEnlazada.deps.json
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\bin\Debug\net6.0\ListaEnlazada.runtimeconfig.json
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\bin\Debug\net6.0\ListaEnlazada.dll
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\bin\Debug\net6.0\ListaEnlazada.pdb
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\ListaEnlazada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\ListaEnlazada.AssemblyInfoInputs.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\ListaEnlazada.AssemblyInfo.cs
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\ListaEnlazada.dll
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\refint\ListaEnlazada.dll
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\ListaEnlazada.pdb
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\ListaEnlazada.genruntimeconfig.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\ListaEnlazada\ListaEnlazada\obj\Debug\net6.0\ref\ListaEnlazada.dll

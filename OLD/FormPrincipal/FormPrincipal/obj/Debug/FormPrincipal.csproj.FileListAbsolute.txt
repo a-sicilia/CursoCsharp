@@ -1,0 +1,11 @@
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.FormSaludo.resources
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Rulo\Desktop\Proyectos personales\C#\FormPrincipal\FormPrincipal\obj\Debug\FormPrincipal.csprojAssemblyReference.cache

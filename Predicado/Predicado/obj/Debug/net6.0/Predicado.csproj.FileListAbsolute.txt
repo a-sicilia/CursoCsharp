@@ -1,0 +1,15 @@
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\bin\Debug\net6.0\Predicado.exe
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\bin\Debug\net6.0\Predicado.deps.json
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\bin\Debug\net6.0\Predicado.runtimeconfig.json
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\bin\Debug\net6.0\Predicado.dll
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\bin\Debug\net6.0\Predicado.pdb
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\Predicado.csproj.AssemblyReference.cache
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\Predicado.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\Predicado.AssemblyInfoInputs.cache
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\Predicado.AssemblyInfo.cs
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\Predicado.csproj.CoreCompileInputs.cache
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\Predicado.dll
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\refint\Predicado.dll
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\Predicado.pdb
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\Predicado.genruntimeconfig.cache
+D:\BKP\Proyectos personales\C#\Predicado\Predicado\obj\Debug\net6.0\ref\Predicado.dll

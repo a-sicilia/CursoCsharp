@@ -1,0 +1,15 @@
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.exe
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.deps.json
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.runtimeconfig.json
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.dll
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.pdb
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.csproj.AssemblyReference.cache
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfoInputs.cache
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfo.cs
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.dll
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\refint\Excepciones.dll
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.pdb
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.genruntimeconfig.cache
+D:\BKP\Proyectos personales\C#\excepciones\Excepciones\Excepciones\obj\Debug\net6.0\ref\Excepciones.dll

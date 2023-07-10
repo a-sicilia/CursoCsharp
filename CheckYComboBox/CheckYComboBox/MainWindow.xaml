@@ -1,0 +1,44 @@
+﻿<Window x:Class="CheckYComboBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckYComboBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <ComboBox Name="Ciudades">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding NombreCapital}" FontSize="16"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+
+
+        <StackPanel Grid.Column="1" Margin="100">
+            <Label FontSize="16" FontWeight="Bold">Pais</Label>
+            <CheckBox Name="checkTodasCapi" IsThreeState="True" Checked="checkTodasCapi_Checked" Unchecked="checkTodasCapi_Unchecked">Agregar todas</CheckBox>
+
+            <StackPanel Margin="15">
+                <CheckBox Name="Lanus" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Lanus</CheckBox>
+                <CheckBox Name="Banfield" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Banfield</CheckBox>
+                <CheckBox Name="Lomas" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Lomas</CheckBox>
+                <CheckBox Name="Longchamps" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Longchamps</CheckBox>
+                <CheckBox Name="Microcentro" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Microcentro</CheckBox>
+            </StackPanel>
+            
+        </StackPanel>
+        
+    </Grid>
+</Window>

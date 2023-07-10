@@ -1,0 +1,15 @@
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.exe
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.deps.json
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.runtimeconfig.json
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.dll
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.pdb
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.csproj.AssemblyReference.cache
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.AssemblyInfoInputs.cache
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.AssemblyInfo.cs
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.dll
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\refint\PrimeraAplicacion.dll
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.pdb
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.genruntimeconfig.cache
+D:\BKP\Proyectos personales\C#\consola1\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\ref\PrimeraAplicacion.dll

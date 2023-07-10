@@ -1,0 +1,21 @@
+﻿<Window x:Class="InotifyPropertyChanged.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InotifyPropertyChanged"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+
+        <Label Content="Nombre"></Label>
+        <TextBox x:Name="txtNombre" Width="100" Height="auto" Text="{Binding Path=Nombre, Mode=TwoWay}"></TextBox>
+        
+        <Label Content="Apeellido"></Label>
+        <TextBox x:Name="txtApellido" Width="100" Height="auto" Text="{Binding Path=Apellido, Mode=TwoWay}"></TextBox>
+        
+        <Label Content="Nombre completo"></Label>
+        <TextBox x:Name="txtNombreCompleto" Width="100" Height="auto" Text="{Binding Path=Nombre_completo, Mode=TwoWay}"></TextBox>
+        
+    </StackPanel>
+</Window>

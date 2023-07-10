@@ -1,0 +1,15 @@
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\bin\Debug\net6.0\Genericos.exe
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\bin\Debug\net6.0\Genericos.deps.json
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\bin\Debug\net6.0\Genericos.runtimeconfig.json
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\bin\Debug\net6.0\Genericos.dll
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\bin\Debug\net6.0\Genericos.pdb
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.AssemblyReference.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfo.cs
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\Genericos.dll
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\refint\Genericos.dll
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\Genericos.pdb
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\Genericos.genruntimeconfig.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\Genericos\Genericos\obj\Debug\net6.0\ref\Genericos.dll

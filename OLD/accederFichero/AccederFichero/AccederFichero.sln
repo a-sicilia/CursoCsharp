@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccederFichero", "AccederFichero\AccederFichero.csproj", "{7275FDC8-6E88-41E0-AC40-53D7DD51A0B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7275FDC8-6E88-41E0-AC40-53D7DD51A0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7275FDC8-6E88-41E0-AC40-53D7DD51A0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7275FDC8-6E88-41E0-AC40-53D7DD51A0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7275FDC8-6E88-41E0-AC40-53D7DD51A0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92A888D7-2C1D-43A4-8D14-EAD093BC9FA7}
+	EndGlobalSection
+EndGlobal

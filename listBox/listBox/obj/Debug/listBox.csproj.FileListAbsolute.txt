@@ -1,0 +1,16 @@
+D:\BKP\Proyectos personales\C#\listBox\listBox\bin\Debug\listBox.exe.config
+D:\BKP\Proyectos personales\C#\listBox\listBox\bin\Debug\listBox.exe
+D:\BKP\Proyectos personales\C#\listBox\listBox\bin\Debug\listBox.pdb
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.csproj.AssemblyReference.cache
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.csproj.SuggestedBindingRedirects.cache
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\MainWindow.g.cs
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\App.g.cs
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox_MarkupCompile.cache
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox_MarkupCompile.lref
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\MainWindow.baml
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.g.resources
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.Properties.Resources.resources
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.csproj.GenerateResource.cache
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.csproj.CoreCompileInputs.cache
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.exe
+D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.pdb

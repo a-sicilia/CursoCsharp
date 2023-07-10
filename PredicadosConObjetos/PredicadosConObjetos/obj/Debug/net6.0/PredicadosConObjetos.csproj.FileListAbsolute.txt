@@ -1,0 +1,15 @@
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\bin\Debug\net6.0\PredicadosConObjetos.exe
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\bin\Debug\net6.0\PredicadosConObjetos.deps.json
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\bin\Debug\net6.0\PredicadosConObjetos.runtimeconfig.json
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\bin\Debug\net6.0\PredicadosConObjetos.dll
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\bin\Debug\net6.0\PredicadosConObjetos.pdb
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\PredicadosConObjetos.csproj.AssemblyReference.cache
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\PredicadosConObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\PredicadosConObjetos.AssemblyInfoInputs.cache
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\PredicadosConObjetos.AssemblyInfo.cs
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\PredicadosConObjetos.csproj.CoreCompileInputs.cache
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\PredicadosConObjetos.dll
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\refint\PredicadosConObjetos.dll
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\PredicadosConObjetos.pdb
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\PredicadosConObjetos.genruntimeconfig.cache
+D:\BKP\Proyectos personales\C#\PredicadosConObjetos\PredicadosConObjetos\obj\Debug\net6.0\ref\PredicadosConObjetos.dll

@@ -1,0 +1,15 @@
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\bin\Debug\net6.0\EjPracticoHerencia.exe
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\bin\Debug\net6.0\EjPracticoHerencia.deps.json
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\bin\Debug\net6.0\EjPracticoHerencia.runtimeconfig.json
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\bin\Debug\net6.0\EjPracticoHerencia.dll
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\bin\Debug\net6.0\EjPracticoHerencia.pdb
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\EjPracticoHerencia.csproj.AssemblyReference.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\EjPracticoHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\EjPracticoHerencia.AssemblyInfoInputs.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\EjPracticoHerencia.AssemblyInfo.cs
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\EjPracticoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\EjPracticoHerencia.dll
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\refint\EjPracticoHerencia.dll
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\EjPracticoHerencia.pdb
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\EjPracticoHerencia.genruntimeconfig.cache
+C:\Users\asicilia\Documents\Proyecto personal\c#\EjPracticoHerencia\EjPracticoHerencia\obj\Debug\net6.0\ref\EjPracticoHerencia.dll

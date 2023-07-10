@@ -1,0 +1,15 @@
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.exe
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.deps.json
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.dll
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.pdb
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.AssemblyReference.cache
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.dll
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.pdb
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+D:\BKP\Proyectos personales\C#\Lambda\Lambda\obj\Debug\net6.0\ref\Lambda.dll

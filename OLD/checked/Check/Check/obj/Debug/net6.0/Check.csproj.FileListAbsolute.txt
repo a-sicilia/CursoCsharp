@@ -1,0 +1,15 @@
+D:\BKP\Proyectos personales\C#\checked\Check\Check\bin\Debug\net6.0\Check.exe
+D:\BKP\Proyectos personales\C#\checked\Check\Check\bin\Debug\net6.0\Check.deps.json
+D:\BKP\Proyectos personales\C#\checked\Check\Check\bin\Debug\net6.0\Check.runtimeconfig.json
+D:\BKP\Proyectos personales\C#\checked\Check\Check\bin\Debug\net6.0\Check.dll
+D:\BKP\Proyectos personales\C#\checked\Check\Check\bin\Debug\net6.0\Check.pdb
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\Check.csproj.AssemblyReference.cache
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\Check.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\Check.AssemblyInfoInputs.cache
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\Check.AssemblyInfo.cs
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\Check.csproj.CoreCompileInputs.cache
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\Check.dll
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\refint\Check.dll
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\Check.pdb
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\Check.genruntimeconfig.cache
+D:\BKP\Proyectos personales\C#\checked\Check\Check\obj\Debug\net6.0\ref\Check.dll
