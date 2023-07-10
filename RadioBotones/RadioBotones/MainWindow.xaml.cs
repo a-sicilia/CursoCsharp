@@ -21,6 +21,7 @@ namespace RadioBotones
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }
