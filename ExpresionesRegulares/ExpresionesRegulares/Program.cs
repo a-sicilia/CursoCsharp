@@ -10,7 +10,7 @@ internal class Program
 
         string patron = @"\d{3}|24";
 
-        string patron2 = "La Rioja (2128)? 1124042928 LLLL";
+        string patron2 = "La Rioja (2128)? 1124042928 LLL";
 
         Regex expRegular = new Regex(patron2);
 
