@@ -8,9 +8,9 @@ internal class Program
         string frase = "La Rioja 2128 1124042928";
 
 
-        string patron = @"\d{3}|24";
+        string patron = @"\d{3}|22";
 
-        string patron2 = "La Rioja (2128)? 1124042928 LLL";
+        string patron2 = "La Rioja (2128)? 1124042928";
 
         Regex expRegular = new Regex(patron2);
 
