@@ -19,3 +19,24 @@ D:\BKP\Proyectos personales\C#\DependencyProperties\DependencyProperties\obj\Deb
 D:\BKP\Proyectos personales\C#\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.pdb
 D:\BKP\Proyectos personales\C#\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.genruntimeconfig.cache
 D:\BKP\Proyectos personales\C#\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\ref\DependencyProperties.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\bin\Debug\net6.0-windows\DependencyProperties.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\bin\Debug\net6.0-windows\DependencyProperties.deps.json
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\bin\Debug\net6.0-windows\DependencyProperties.runtimeconfig.json
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\bin\Debug\net6.0-windows\DependencyProperties.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\bin\Debug\net6.0-windows\DependencyProperties.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.csproj.AssemblyReference.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties_MarkupCompile.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties_MarkupCompile.lref
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.g.resources
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.AssemblyInfoInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.AssemblyInfo.cs
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\refint\DependencyProperties.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\DependencyProperties.genruntimeconfig.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DependencyProperties\DependencyProperties\obj\Debug\net6.0-windows\ref\DependencyProperties.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BKP\\Proyectos personales\\C#\\Delegados\\Delegados\\Delegados.csproj": {}
+    "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\Delegados\\Delegados\\Delegados.csproj": {}
   },
   "projects": {
-    "D:\\BKP\\Proyectos personales\\C#\\Delegados\\Delegados\\Delegados.csproj": {
+    "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\Delegados\\Delegados\\Delegados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BKP\\Proyectos personales\\C#\\Delegados\\Delegados\\Delegados.csproj",
+        "projectUniqueName": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\Delegados\\Delegados\\Delegados.csproj",
         "projectName": "Delegados",
-        "projectPath": "D:\\BKP\\Proyectos personales\\C#\\Delegados\\Delegados\\Delegados.csproj",
+        "projectPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\Delegados\\Delegados\\Delegados.csproj",
         "packagesPath": "C:\\Users\\Rulo\\.nuget\\packages\\",
-        "outputPath": "D:\\BKP\\Proyectos personales\\C#\\Delegados\\Delegados\\obj\\",
+        "outputPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\Delegados\\Delegados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

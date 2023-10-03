@@ -25,7 +25,6 @@ namespace DependencyProperties
 
             set { SetValue(miDependencyProperty, value); }
 
-
         }
 
         //Dependencia a la propiedad

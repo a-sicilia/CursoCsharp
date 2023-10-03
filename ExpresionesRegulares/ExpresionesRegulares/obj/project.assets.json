@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BKP\\Proyectos personales\\C#\\ExpresionesRegulares\\ExpresionesRegulares\\ExpresionesRegulares.csproj",
+      "projectUniqueName": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\ExpresionesRegulares\\ExpresionesRegulares\\ExpresionesRegulares.csproj",
       "projectName": "ExpresionesRegulares",
-      "projectPath": "D:\\BKP\\Proyectos personales\\C#\\ExpresionesRegulares\\ExpresionesRegulares\\ExpresionesRegulares.csproj",
+      "projectPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\ExpresionesRegulares\\ExpresionesRegulares\\ExpresionesRegulares.csproj",
       "packagesPath": "C:\\Users\\Rulo\\.nuget\\packages\\",
-      "outputPath": "D:\\BKP\\Proyectos personales\\C#\\ExpresionesRegulares\\ExpresionesRegulares\\obj\\",
+      "outputPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\ExpresionesRegulares\\ExpresionesRegulares\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

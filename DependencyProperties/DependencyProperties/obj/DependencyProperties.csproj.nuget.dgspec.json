@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BKP\\Proyectos personales\\C#\\DependencyProperties\\DependencyProperties\\DependencyProperties.csproj": {}
+    "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\DependencyProperties\\DependencyProperties\\DependencyProperties.csproj": {}
   },
   "projects": {
-    "D:\\BKP\\Proyectos personales\\C#\\DependencyProperties\\DependencyProperties\\DependencyProperties.csproj": {
+    "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\DependencyProperties\\DependencyProperties\\DependencyProperties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BKP\\Proyectos personales\\C#\\DependencyProperties\\DependencyProperties\\DependencyProperties.csproj",
+        "projectUniqueName": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\DependencyProperties\\DependencyProperties\\DependencyProperties.csproj",
         "projectName": "DependencyProperties",
-        "projectPath": "D:\\BKP\\Proyectos personales\\C#\\DependencyProperties\\DependencyProperties\\DependencyProperties.csproj",
+        "projectPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\DependencyProperties\\DependencyProperties\\DependencyProperties.csproj",
         "packagesPath": "C:\\Users\\Rulo\\.nuget\\packages\\",
-        "outputPath": "D:\\BKP\\Proyectos personales\\C#\\DependencyProperties\\DependencyProperties\\obj\\",
+        "outputPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\DependencyProperties\\DependencyProperties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rulo\\Source\\Repos\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj",
+      "projectUniqueName": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj",
       "projectName": "RadioBotones",
-      "projectPath": "C:\\Users\\Rulo\\Source\\Repos\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj",
+      "projectPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj",
       "packagesPath": "C:\\Users\\Rulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rulo\\Source\\Repos\\CursoCsharp\\RadioBotones\\RadioBotones\\obj\\",
+      "outputPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

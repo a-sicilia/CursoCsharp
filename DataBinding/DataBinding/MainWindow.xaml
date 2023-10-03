@@ -9,7 +9,7 @@
     
     <StackPanel>
 
-        <TextBox Width="100" Name="CuadroTexto" Margin="60" TextAlignment="Center" FontSize="25" Background="Black" 
+        <TextBox Width="100" Name="CuadroTexto" Margin="60" TextAlignment="Center" FontSize="25" Background="Black" Foreground="white"
                  Text="{Binding ElementName=Slider,Path=Value, Mode=OneWay}"></TextBox>
 
         <Slider Width="200" Name="Slider" Minimum="0" Maximum="100"></Slider> 
