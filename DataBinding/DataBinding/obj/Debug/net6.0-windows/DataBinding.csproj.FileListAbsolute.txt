@@ -19,3 +19,24 @@ D:\BKP\Proyectos personales\C#\DataBinding\DataBinding\obj\Debug\net6.0-windows\
 D:\BKP\Proyectos personales\C#\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.pdb
 D:\BKP\Proyectos personales\C#\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.genruntimeconfig.cache
 D:\BKP\Proyectos personales\C#\DataBinding\DataBinding\obj\Debug\net6.0-windows\ref\DataBinding.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\bin\Debug\net6.0-windows\DataBinding.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\bin\Debug\net6.0-windows\DataBinding.deps.json
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\bin\Debug\net6.0-windows\DataBinding.runtimeconfig.json
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\bin\Debug\net6.0-windows\DataBinding.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\bin\Debug\net6.0-windows\DataBinding.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.csproj.AssemblyReference.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding_MarkupCompile.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding_MarkupCompile.lref
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.g.resources
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.AssemblyInfoInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.AssemblyInfo.cs
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\refint\DataBinding.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\DataBinding.genruntimeconfig.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\DataBinding\DataBinding\obj\Debug\net6.0-windows\ref\DataBinding.dll
