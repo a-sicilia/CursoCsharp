@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 *.v2
 *.vsidx
 *.dll
 #comentada
+=======
+*.vsidx
+*.cs
+>>>>>>> 203b7f1891d57f9a5b966364f962aa2ac1fe9db7
