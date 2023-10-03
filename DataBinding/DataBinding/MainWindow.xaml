@@ -10,9 +10,9 @@
     <StackPanel>
 
         <TextBox Width="100" Name="CuadroTexto" Margin="60"
-                 Text="{Binding ElementName=Slider,Path=Value, Mode=OneWay}"></TextBox>
+                 Text="{Binding ElementName=ElSlider,Path=Value, Mode=OneWay}"></TextBox>
 
-        <Slider Width="200" Name="Slider" Minimum="0" Maximum="100"></Slider> 
+        <Slider Width="200" Name="ElSlider" Minimum="0" Maximum="100"></Slider> 
 
     </StackPanel>
     
