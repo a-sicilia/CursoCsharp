@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
 
-        <Button Height="150" Width="300" Content="Apretà!!" Background="LightBlue" >
+        <Button Height="150" Width="300" Content="Apreta!!" Background="LightBlue" >
 
             <Button.Style>
                 <Style TargetType="Button">

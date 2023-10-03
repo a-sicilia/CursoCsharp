@@ -21,16 +21,18 @@ namespace DependencyProperties
         //Creamos la propiedad
         public int MiProperty
         {
-            get { return (int)GetValue(miDependencyProperty);}
+            get { return (int)GetValue(MiPropertyDependency);}
 
-            set { SetValue(miDependencyProperty, value); }
+            set { SetValue(MiPropertyDependency, value); }
 
 
         }
 
         //Dependencia a la propiedad
-        public static readonly DependencyProperty miDependencyProperty = 
+        public static readonly DependencyProperty MiPropertyDependency = 
             DependencyProperty.Register("MiProperty",typeof(int),typeof(MainWindow),new PropertyMetadata(0));
+
+
 
         public MainWindow()
         {
