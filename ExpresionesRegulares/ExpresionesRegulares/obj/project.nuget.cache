@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EkUVwJJA9Xwvj+BmqIQjlMmoYmddUZMp2vIC7ZYNjoXBB91U7brh2dIla96dT7Dso5EOURg9inxIkfJwJI2S+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\ExpresionesRegulares\\ExpresionesRegulares\\ExpresionesRegulares.csproj",
+=======
+  "dgSpecHash": "3KoVi1yLM2D2xhdixLJIv5KHGFN/050vIsWZLGSElU4R6xpdpzWRkTa+d6nojfD6UYiZla0fcNfgKYRD30RZtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asicilia\\Documents\\GitHub\\CursoCsharp\\ExpresionesRegulares\\ExpresionesRegulares\\ExpresionesRegulares.csproj",
+>>>>>>> 203b7f1891d57f9a5b966364f962aa2ac1fe9db7
   "expectedPackageFiles": [],
   "logs": []
 }

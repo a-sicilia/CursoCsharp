@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj": {}
   },
   "projects": {
@@ -12,12 +13,25 @@
         "projectPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj",
         "packagesPath": "C:\\Users\\Rulo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Rulo\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\obj\\",
+=======
+    "C:\\Users\\asicilia\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\asicilia\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asicilia\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj",
+        "projectName": "RadioBotones",
+        "projectPath": "C:\\Users\\asicilia\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\RadioBotones.csproj",
+        "packagesPath": "C:\\Users\\asicilia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asicilia\\Documents\\GitHub\\CursoCsharp\\RadioBotones\\RadioBotones\\obj\\",
+>>>>>>> 203b7f1891d57f9a5b966364f962aa2ac1fe9db7
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asicilia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +76,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
