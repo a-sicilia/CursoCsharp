@@ -9,10 +9,17 @@
     
     <StackPanel>
 
+<<<<<<< HEAD
         <TextBox Width="100" Name="CuadroTexto" Margin="60" TextAlignment="Center" FontSize="25" Background="Black" Foreground="white"
                  Text="{Binding ElementName=ElSlider,Path=Value, Mode=OneWay}"></TextBox>
 
         <Slider Width="211" Name="ElSlider" Minimum="0" Maximum="100"></Slider> 
+=======
+        <TextBox Width="100" Name="CuadroTexto" Margin="60" TextAlignment="Center" FontSize="25" Background="Black" 
+                 Text="{Binding ElementName=ElSlider,Path=Value, Mode=OneWay}"></TextBox>
+
+        <Slider Width="200" Name="ElSlider" Minimum="0" Maximum="100"></Slider> 
+>>>>>>> 203b7f1891d57f9a5b966364f962aa2ac1fe9db7
 
     </StackPanel>
     
