@@ -1,2 +1,4 @@
 *.vsidx
 *.cs
+DataBinding\.vs\DataBinding\v17\
+InotifyPropertyChanged\InotifyPropertyChanged\bin\Debug\net6.0-windows\
