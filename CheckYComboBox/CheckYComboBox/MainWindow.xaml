@@ -18,7 +18,7 @@
                 <ComboBox.ItemTemplate>
                     <DataTemplate>
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock Text="{Binding NombreCapital}" FontSize="16"></TextBlock>
+                            <TextBlock Text="{Binding NombreCapital}" FontSize="16"></TextBlock> <!-- NombreCapital nombre de la propiedad en el archivo .cs -->
                         </StackPanel>
                     </DataTemplate>
                 </ComboBox.ItemTemplate>

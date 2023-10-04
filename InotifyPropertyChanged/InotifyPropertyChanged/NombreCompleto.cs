@@ -17,11 +17,9 @@ namespace InotifyPropertyChanged
 
         private void onPropertyChanged(string property)
         {
-
             if (PropertyChanged != null) {
                 PropertyChanged(this, new PropertyChangedEventArgs(property)); 
             }
-
         }
 
 
@@ -49,7 +47,8 @@ namespace InotifyPropertyChanged
                 nombre_completo=Nombre + " " + Apellido;
                 return nombre_completo;
             }
-            set { apellido = value; }
+            set { nombre_completo = value; }
+
         }
 
     }

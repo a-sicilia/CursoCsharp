@@ -15,18 +15,15 @@
 
 
         <ListBox Name="listaPoblaciones" HorizontalContentAlignment="Stretch">
-
             <ListBox.ItemTemplate>
                 <DataTemplate>
-                    <Grid Margin="5">
+                    <Grid Margin="15">
                         <Grid.ColumnDefinitions>
-                            
                             <ColumnDefinition Width="*"></ColumnDefinition>
                             <ColumnDefinition Width="*"></ColumnDefinition>
                             <ColumnDefinition Width="*"></ColumnDefinition>
                             <ColumnDefinition Width="*"></ColumnDefinition>
                             <ColumnDefinition Width="*"></ColumnDefinition>
-
                         </Grid.ColumnDefinitions>
 
                         <TextBlock Grid.Column="0" Text="{Binding Poblacion1}" PreviewMouseDown="TextBlock_PreviewMouseDown"></TextBlock>
@@ -38,7 +35,6 @@
                     </Grid>
                 </DataTemplate>
             </ListBox.ItemTemplate>
-            
         </ListBox>
 
         <Button Name="boton" Grid.Row="1" Content="Apretar" FontSize="40" Click="boton_Click"></Button>
