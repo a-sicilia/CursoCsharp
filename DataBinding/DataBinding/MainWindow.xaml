@@ -12,7 +12,7 @@
         <TextBox Width="100" Name="CuadroTexto" Margin="60" TextAlignment="Center" FontSize="25" Background="Black" Foreground="White"
                  Text="{Binding ElementName=ElSlider,Path=Value, Mode=OneWay}"></TextBox>
 
-        <Slider Width="200" Name="ElSlider" Minimum="0" Maximum="100"></Slider> 
+        <Slider Width="210" Name="ElSlider" Minimum="0" Maximum="100"></Slider> 
 
     </StackPanel>
     
