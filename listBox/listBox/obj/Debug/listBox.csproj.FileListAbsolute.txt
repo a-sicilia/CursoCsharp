@@ -14,3 +14,19 @@ D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.csproj.Generate
 D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.csproj.CoreCompileInputs.cache
 D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.exe
 D:\BKP\Proyectos personales\C#\listBox\listBox\obj\Debug\listBox.pdb
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\bin\Debug\listBox.exe.config
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\bin\Debug\listBox.exe
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\bin\Debug\listBox.pdb
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox.csproj.AssemblyReference.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\MainWindow.g.cs
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\App.g.cs
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox_MarkupCompile.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox_MarkupCompile.lref
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\MainWindow.baml
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox.g.resources
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox.Properties.Resources.resources
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox.csproj.GenerateResource.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox.csproj.CoreCompileInputs.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox.exe
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\listBox\listBox\obj\Debug\listBox.pdb

@@ -19,3 +19,24 @@ D:\BKP\Proyectos personales\C#\InotifyPropertyChanged\InotifyPropertyChanged\obj
 D:\BKP\Proyectos personales\C#\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.pdb
 D:\BKP\Proyectos personales\C#\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.genruntimeconfig.cache
 D:\BKP\Proyectos personales\C#\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\ref\InotifyPropertyChanged.dll
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\bin\Debug\net6.0-windows\InotifyPropertyChanged.exe
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\bin\Debug\net6.0-windows\InotifyPropertyChanged.deps.json
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\bin\Debug\net6.0-windows\InotifyPropertyChanged.runtimeconfig.json
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\bin\Debug\net6.0-windows\InotifyPropertyChanged.dll
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\bin\Debug\net6.0-windows\InotifyPropertyChanged.pdb
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.csproj.AssemblyReference.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged_MarkupCompile.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged_MarkupCompile.lref
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.g.resources
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.AssemblyInfoInputs.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.AssemblyInfo.cs
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.dll
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\refint\InotifyPropertyChanged.dll
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.pdb
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\InotifyPropertyChanged.genruntimeconfig.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\ref\InotifyPropertyChanged.dll

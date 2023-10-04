@@ -19,3 +19,24 @@ D:\BKP\Proyectos personales\C#\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-wi
 D:\BKP\Proyectos personales\C#\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.pdb
 D:\BKP\Proyectos personales\C#\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.genruntimeconfig.cache
 D:\BKP\Proyectos personales\C#\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\ref\CheckYComboBox.dll
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\bin\Debug\net6.0-windows\CheckYComboBox.exe
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\bin\Debug\net6.0-windows\CheckYComboBox.deps.json
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\bin\Debug\net6.0-windows\CheckYComboBox.runtimeconfig.json
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\bin\Debug\net6.0-windows\CheckYComboBox.dll
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\bin\Debug\net6.0-windows\CheckYComboBox.pdb
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.csproj.AssemblyReference.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox_MarkupCompile.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox_MarkupCompile.lref
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.g.resources
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.AssemblyInfoInputs.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.AssemblyInfo.cs
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.csproj.CoreCompileInputs.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.dll
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\refint\CheckYComboBox.dll
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.pdb
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\CheckYComboBox.genruntimeconfig.cache
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\CheckYComboBox\CheckYComboBox\obj\Debug\net6.0-windows\ref\CheckYComboBox.dll

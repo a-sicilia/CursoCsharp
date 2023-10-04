@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\BKP\Proyectos personales\C#\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\net6.0-windows\
 InotifyPropertyChanged
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\BKP\Proyectos personales\C#\InotifyPropertyChanged\InotifyPropertyChanged\App.xaml
+C:\Users\asicilia\Documents\GitHub\CursoCsharp\InotifyPropertyChanged\InotifyPropertyChanged\App.xaml
 11407045341
 
 620676451
-1941709816142
+1941675070116
 MainWindow.xaml;
 
-True
+False
 

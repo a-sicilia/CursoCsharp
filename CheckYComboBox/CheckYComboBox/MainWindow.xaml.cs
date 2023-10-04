@@ -31,7 +31,7 @@ namespace CheckYComboBox
             capi.Add(new Capitales { NombreCapital = "Longchamps" });
             capi.Add(new Capitales { NombreCapital = "Microcentro" });
 
-            Ciudades.ItemsSource = capi;
+            Ciudades.ItemsSource = capi;//Le paso la lista de ciudades al combobox
         }
 
         private void checkTodasCapi_Checked(object sender, RoutedEventArgs e)
@@ -59,7 +59,7 @@ namespace CheckYComboBox
             {
                 checkTodasCapi.IsChecked = true;
             }
-            else{ checkTodasCapi.IsChecked = null; }
+            else{ checkTodasCapi.IsChecked = null; } //null es el estado intermedio
         }
       
 
@@ -76,6 +76,6 @@ namespace CheckYComboBox
 
     public class Capitales
     {
-        public string NombreCapital { get; set; }
+        public string NombreCapital { get; set; }//Nombre de la propiedad
     }
 }

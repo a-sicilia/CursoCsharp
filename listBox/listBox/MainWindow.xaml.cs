@@ -30,7 +30,7 @@ namespace listBox
             listPobl.Add(new Poblaciones() { Poblacion1 = "Belgrano", Poblacion2 = "Palomar", temp1 = 5, temp2 = 10 , difTemp = 5 });
 
 
-            listaPoblaciones.ItemsSource = listPobl;
+            listaPoblaciones.ItemsSource = listPobl; //listaPoblaciones es el listbox del xaml, le paso la lista poblacion (listPobl)
 
         }
 
@@ -38,13 +38,13 @@ namespace listBox
         {
             try { 
             MessageBox.Show((listaPoblaciones.SelectedItem as Poblaciones).Poblacion1 + " " +
-                (listaPoblaciones.SelectedItem as Poblaciones).temp1 + " " +
+                (listaPoblaciones.SelectedItem as Poblaciones).temp1 + " °C " +
                 (listaPoblaciones.SelectedItem as Poblaciones).Poblacion2 + " " +
-                (listaPoblaciones.SelectedItem as Poblaciones).temp2 + " " 
+                (listaPoblaciones.SelectedItem as Poblaciones).temp2 + " °C "
                 ) ;
             }catch(Exception ex)
             {
-                MessageBox.Show("Seleccione una fila");
+                MessageBox.Show("Seleccione una fila o la primer columna");
             }
         }
 
@@ -53,14 +53,14 @@ namespace listBox
             try
             {
                 MessageBox.Show((listaPoblaciones.SelectedItem as Poblaciones).Poblacion1 + " " +
-                    (listaPoblaciones.SelectedItem as Poblaciones).temp1 + " " +
+                    (listaPoblaciones.SelectedItem as Poblaciones).temp1 + " °C " +
                     (listaPoblaciones.SelectedItem as Poblaciones).Poblacion2 + " " +
-                    (listaPoblaciones.SelectedItem as Poblaciones).temp2 + " "
+                    (listaPoblaciones.SelectedItem as Poblaciones).temp2 + " °C "
                     );
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Seleccione una fila");
+                MessageBox.Show("Seleccione una fila o la primer columna");
             }
         }
     }
@@ -73,10 +73,6 @@ namespace listBox
         public string Poblacion2 { get; set; }
         public int temp2 { get; set; }
 
-        public int difTemp { 
-            get;
-            set;
-        }
-
+        public int difTemp { get; set; }
     }
 }
