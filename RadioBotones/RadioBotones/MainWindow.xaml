@@ -6,9 +6,32 @@
         xmlns:local="clr-namespace:RadioBotones"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    
+    
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
 
-		<RadioButton>test desde nb</RadioButton>
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="Semáforo" FontSize="40" TextAlignment="Center" Foreground="Blue"></TextBlock>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition> <!-- 0.5* es el 50% de la mantalla-->
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0">
+                    <RadioButton Margin="50,20,100,80"></RadioButton>
+                </StackPanel>
+                
+            </Grid>
+            
+        </StackPanel>
 	
     </Grid>
 </Window>
