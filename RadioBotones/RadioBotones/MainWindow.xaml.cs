@@ -23,5 +23,32 @@ namespace RadioBotones
             InitializeComponent();
             
         }
+
+        private void RadioButton_ClickRojo(object sender, RoutedEventArgs e)
+        {
+          
+            LuzRojo.Visibility = Visibility.Visible;
+            LuzAmarillo.Visibility = Visibility.Hidden;
+            LuzVerde.Visibility = Visibility.Hidden;
+        
+        }
+
+        private void RadioButton_ClickAmarillo(object sender, RoutedEventArgs e)
+        {
+
+            LuzRojo.Visibility = Visibility.Hidden;
+            LuzAmarillo.Visibility = Visibility.Visible;
+            LuzVerde.Visibility = Visibility.Hidden;
+
+        }
+
+        private void RadioButton_ClickVerde(object sender, RoutedEventArgs e)
+        {
+
+            LuzRojo.Visibility = Visibility.Hidden;
+            LuzAmarillo.Visibility = Visibility.Hidden;
+            LuzVerde.Visibility = Visibility.Visible;
+
+        }
     }
 }
