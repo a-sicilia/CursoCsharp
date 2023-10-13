@@ -26,8 +26,25 @@
                 </Grid.ColumnDefinitions>
 
                 <StackPanel Grid.Column="0">
-                    <RadioButton Margin="50,20,100,80"></RadioButton>
+                    <RadioButton Margin="50,20,100,80" Click="RadioButton_ClickRojo" >
+                        <TextBlock Text="Rojo"></TextBlock>
+                    </RadioButton>
+   
+                    <RadioButton Margin="50,20,100,80" Click="RadioButton_ClickAmarillo">
+                        <TextBlock Text="Amarillo"></TextBlock>
+                    </RadioButton>
+
+                    <RadioButton Margin="50,20,100,80" Click="RadioButton_ClickVerde">
+                        <TextBlock Text="Verde"></TextBlock>
+                    </RadioButton>
                 </StackPanel>
+
+                <Grid Grid.Column="1">
+                    <Image Source="C:\Users\Rulo\Downloads\sem.png" Height="350"></Image>
+                    <Ellipse Name="LuzRojo" Width="78" Height="78" Fill="Red" Margin="161,39,161,233" Visibility="Hidden"></Ellipse>
+                    <Ellipse Name="LuzAmarillo" Width="78" Height="78" Fill="Yellow" Margin="161,136,161,136" Visibility="Hidden"></Ellipse>
+                    <Ellipse Name="LuzVerde" Width="78" Height="78" Fill="Green" Margin="161,233,161,38" Visibility="Hidden"></Ellipse>
+                </Grid>
                 
             </Grid>
             
