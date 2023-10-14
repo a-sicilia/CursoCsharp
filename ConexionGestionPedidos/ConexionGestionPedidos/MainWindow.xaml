@@ -7,9 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
-        <Label Content="Clientes" HorizontalAlignment="Left" Margin="379,42,0,0" VerticalAlignment="Top"></Label>
-        <ListBox Name="ListaClientes" HorizontalAlignment="Left" Height="197" Width="170" Margin="324,94,0,0" VerticalAlignment="Top"></ListBox>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
         
+        <Label  Grid.Column="0" Content="Clientes" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top"></Label>
+        <ListBox Grid.Column="0" Name="ListaClientes" HorizontalAlignment="Center" Height="197" Width="170" Margin="0,50,0,0" VerticalAlignment="Top" SelectionChanged="ListaClientes_SelectionChanged"></ListBox>
+
+        <Label  Grid.Column="1" Content="Pedidos" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top"></Label>
+        <ListBox Grid.Column="1" Name="ListaPedidos" HorizontalAlignment="Center" Height="197" Width="170" Margin="0,50,0,0" VerticalAlignment="Top"></ListBox>
+
+
+
     </Grid>
 </Window>
