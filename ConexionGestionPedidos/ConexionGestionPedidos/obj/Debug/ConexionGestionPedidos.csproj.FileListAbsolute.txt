@@ -14,3 +14,5 @@ C:\Users\Rulo\Documents\GitHub\CursoCsharp\ConexionGestionPedidos\ConexionGestio
 C:\Users\Rulo\Documents\GitHub\CursoCsharp\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.CoreCompileInputs.cache
 C:\Users\Rulo\Documents\GitHub\CursoCsharp\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.exe
 C:\Users\Rulo\Documents\GitHub\CursoCsharp\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ActualizarCli.g.cs
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ActualizarCli.baml
