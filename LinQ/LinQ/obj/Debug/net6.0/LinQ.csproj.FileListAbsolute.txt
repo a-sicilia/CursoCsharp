@@ -1,0 +1,15 @@
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\bin\Debug\net6.0\LinQ.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\bin\Debug\net6.0\LinQ.deps.json
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\bin\Debug\net6.0\LinQ.runtimeconfig.json
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\bin\Debug\net6.0\LinQ.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\bin\Debug\net6.0\LinQ.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\LinQ.csproj.AssemblyReference.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\LinQ.AssemblyInfo.cs
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\LinQ.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\refint\LinQ.dll
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\LinQ.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\LinQ.genruntimeconfig.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\LinQ\LinQ\obj\Debug\net6.0\ref\LinQ.dll
