@@ -8,17 +8,23 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="0.5*"></ColumnDefinition>
-            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition> 
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         
         <Label  Grid.Column="0" Content="Clientes" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top"></Label>
-        <ListBox Grid.Column="0" Name="ListaClientes" HorizontalAlignment="Center" Height="197" Width="170" Margin="0,50,0,0" VerticalAlignment="Top" SelectionChanged="ListaClientes_SelectionChanged"></ListBox>
-
+        <ListBox Grid.Column="0" Name="ListaClientes" HorizontalAlignment="Center" Height="197" Width="170" Margin="0,50,0,0" VerticalAlignment="Top" MouseDoubleClick="ListaClientes_MouseDoubleClick"></ListBox>
+        <Button Grid.Column="0" Name="btnInsertarCli" Content="Insertar" Height="30" Width="70" Margin="50,120,0,0" HorizontalAlignment="Left" Click="btnInsertarCli_Click"></Button>
+        <Button Grid.Column="0" Name="btnBorrarCli" Content="Borrar" Height="30" Width="70" Margin="0,120,50,0" HorizontalAlignment="Right" Click="btnBorrarCli_Click" ></Button>
+        <TextBox Grid.Column="0" Name="txtBoxClienteInsert" Width="160" Height="30" Margin="0,220,0,0" Text=""></TextBox>
+        
         <Label  Grid.Column="1" Content="Pedidos" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top"></Label>
         <ListBox Grid.Column="1" Name="ListaPedidos" HorizontalAlignment="Center" Height="197" Width="170" Margin="0,50,0,0" VerticalAlignment="Top"></ListBox>
 
-
+        <Label  Grid.Column="2" Content="Todos los Pedidos" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top"></Label>
+        <ListBox Grid.Column="2" Name="ListaTodosPedidos" HorizontalAlignment="Center" Height="197" Width="210" Margin="0,50,0,0" VerticalAlignment="Top" Loaded="ListaTodosPedidos_Loaded"></ListBox>
+        <Button Grid.Column="2" Name="btnBorrar" Content="Borrar" Height="30" Width="70" Margin="0,120,0,0" Click="btnBorrar_Click"></Button>
 
     </Grid>
 </Window>
