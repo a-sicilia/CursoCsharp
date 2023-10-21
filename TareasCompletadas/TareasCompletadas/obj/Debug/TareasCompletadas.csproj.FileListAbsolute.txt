@@ -1,0 +1,7 @@
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TareasCompletadas\TareasCompletadas\bin\Debug\TareasCompletadas.exe.config
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TareasCompletadas\TareasCompletadas\bin\Debug\TareasCompletadas.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TareasCompletadas\TareasCompletadas\bin\Debug\TareasCompletadas.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TareasCompletadas\TareasCompletadas\obj\Debug\TareasCompletadas.csproj.AssemblyReference.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TareasCompletadas\TareasCompletadas\obj\Debug\TareasCompletadas.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TareasCompletadas\TareasCompletadas\obj\Debug\TareasCompletadas.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TareasCompletadas\TareasCompletadas\obj\Debug\TareasCompletadas.pdb
