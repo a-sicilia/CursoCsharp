@@ -1,0 +1,7 @@
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\Threads\Threads\bin\Debug\Threads.exe.config
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\Threads\Threads\bin\Debug\Threads.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\Threads\Threads\bin\Debug\Threads.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\Threads\Threads\obj\Debug\Threads.csproj.AssemblyReference.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\Threads\Threads\obj\Debug\Threads.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\Threads\Threads\obj\Debug\Threads.pdb
