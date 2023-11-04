@@ -45,7 +45,6 @@ C:\Users\Rulo\Documents\GitHub\CursoCsharp\RadioBotones\RadioBotones\bin\Debug\n
 C:\Users\Rulo\Documents\GitHub\CursoCsharp\RadioBotones\RadioBotones\bin\Debug\net6.0-windows\RadioBotones.runtimeconfig.json
 C:\Users\Rulo\Documents\GitHub\CursoCsharp\RadioBotones\RadioBotones\bin\Debug\net6.0-windows\RadioBotones.dll
 C:\Users\Rulo\Documents\GitHub\CursoCsharp\RadioBotones\RadioBotones\bin\Debug\net6.0-windows\RadioBotones.pdb
-C:\Users\Rulo\Documents\GitHub\CursoCsharp\RadioBotones\RadioBotones\obj\Debug\net6.0-windows\RadioBotones.csproj.AssemblyReference.cache
 C:\Users\Rulo\Documents\GitHub\CursoCsharp\RadioBotones\RadioBotones\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\Rulo\Documents\GitHub\CursoCsharp\RadioBotones\RadioBotones\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\Rulo\Documents\GitHub\CursoCsharp\RadioBotones\RadioBotones\obj\Debug\net6.0-windows\RadioBotones_MarkupCompile.cache
