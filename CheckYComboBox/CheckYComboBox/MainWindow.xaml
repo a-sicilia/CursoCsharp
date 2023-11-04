@@ -36,6 +36,7 @@
                 <CheckBox Name="Lomas" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Lomas</CheckBox>
                 <CheckBox Name="Longchamps" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Longchamps</CheckBox>
                 <CheckBox Name="Microcentro" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Microcentro</CheckBox>
+                
             </StackPanel>
             
         </StackPanel>

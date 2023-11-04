@@ -45,6 +45,7 @@ namespace CheckYComboBox
 
         private void checkTodasCapi_Unchecked(object sender, RoutedEventArgs e)
         {
+            
             Lanus.IsChecked = false;
             Banfield.IsChecked = false;
             Lomas.IsChecked = false;
