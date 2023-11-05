@@ -1,0 +1,7 @@
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\PoolDeThreads\PoolDeThreads\bin\Debug\PoolDeThreads.exe.config
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\PoolDeThreads\PoolDeThreads\bin\Debug\PoolDeThreads.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\PoolDeThreads\PoolDeThreads\bin\Debug\PoolDeThreads.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\PoolDeThreads\PoolDeThreads\obj\Debug\PoolDeThreads.csproj.AssemblyReference.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\PoolDeThreads\PoolDeThreads\obj\Debug\PoolDeThreads.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\PoolDeThreads\PoolDeThreads\obj\Debug\PoolDeThreads.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\PoolDeThreads\PoolDeThreads\obj\Debug\PoolDeThreads.pdb
