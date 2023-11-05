@@ -1,0 +1,7 @@
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskCancelacion\TaskCancelacion\bin\Debug\TaskCancelacion.exe.config
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskCancelacion\TaskCancelacion\bin\Debug\TaskCancelacion.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskCancelacion\TaskCancelacion\bin\Debug\TaskCancelacion.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskCancelacion\TaskCancelacion\obj\Debug\TaskCancelacion.csproj.AssemblyReference.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskCancelacion\TaskCancelacion\obj\Debug\TaskCancelacion.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskCancelacion\TaskCancelacion\obj\Debug\TaskCancelacion.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskCancelacion\TaskCancelacion\obj\Debug\TaskCancelacion.pdb
