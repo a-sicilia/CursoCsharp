@@ -1,0 +1,7 @@
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\claseParallel\claseParallel\bin\Debug\claseParallel.exe.config
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\claseParallel\claseParallel\bin\Debug\claseParallel.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\claseParallel\claseParallel\bin\Debug\claseParallel.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\claseParallel\claseParallel\obj\Debug\claseParallel.csproj.AssemblyReference.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\claseParallel\claseParallel\obj\Debug\claseParallel.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\claseParallel\claseParallel\obj\Debug\claseParallel.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\claseParallel\claseParallel\obj\Debug\claseParallel.pdb
