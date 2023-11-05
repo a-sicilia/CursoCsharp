@@ -1,0 +1,7 @@
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskWaitAny\TaskWaitAny\bin\Debug\TaskWaitAny.exe.config
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskWaitAny\TaskWaitAny\bin\Debug\TaskWaitAny.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskWaitAny\TaskWaitAny\bin\Debug\TaskWaitAny.pdb
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskWaitAny\TaskWaitAny\obj\Debug\TaskWaitAny.csproj.AssemblyReference.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskWaitAny\TaskWaitAny\obj\Debug\TaskWaitAny.csproj.CoreCompileInputs.cache
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskWaitAny\TaskWaitAny\obj\Debug\TaskWaitAny.exe
+C:\Users\Rulo\Documents\GitHub\CursoCsharp\TaskWaitAny\TaskWaitAny\obj\Debug\TaskWaitAny.pdb
